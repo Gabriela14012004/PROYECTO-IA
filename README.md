@@ -1,4 +1,6 @@
 # PROYECTO-IA
+<img width="585" height="698" alt="LOGO UDEA" src="https://github.com/user-attachments/assets/6a5e83f0-1b6e-4bfc-9fb5-ff47d0ef08df" />
+
 ### PRO-SCORE: MODELO DE CLASIFICACIÓN PARA PREDICCIÓN DE DESEMPEÑO EN PRUEBAS SABER PRO EN COLOMBIA. 
 
 ### DESCRIPCIÓN DEL PROYECTO 
